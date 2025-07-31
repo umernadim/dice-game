@@ -35,15 +35,8 @@ The goal? **Score as high as you can!**
 
 ## 📸 Screenshot
 
-```markdown
 ![Dice Game Screenshot](Screenshot%20.png)
 ```
-
----
-
-## 🚀 Live Demo
-
-👉 [Play the Dice Game Live](https://yourusername.github.io/dice-game/)
 
 ---
 
