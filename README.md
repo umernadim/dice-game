@@ -42,7 +42,6 @@ The goal? **Score as high as you can!**
 
 ## 📂 Project Structure
 
-```
 dice-game/
 │
 ├── public/
